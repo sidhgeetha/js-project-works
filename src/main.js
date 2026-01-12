@@ -3,7 +3,7 @@ const buttonEl = document.getElementById("byBtn");
 
 // alert message from set attribute
 
-// buttonEl.setAttribute("onclick" , 'alert("task completed by geetha")');
+buttonEl.setAttribute("onclick" , 'alert("task completed by geetha")');
 
 // alert message from onclick event
 
